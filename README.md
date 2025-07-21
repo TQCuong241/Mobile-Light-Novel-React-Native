@@ -49,7 +49,7 @@
 
 1.  **Sao chép (clone) repository về máy:**
     ```bash
-    git clone [https://github.com/TQCuong241/Mobile-Light-Novel-React-Native.git](https://github.com/TQCuong241/Mobile-Light-Novel-React-Native.git)
+    git clone https://github.com/TQCuong241/Mobile-Light-Novel-React-Native.git
     cd TruyenBro
     ```
 
