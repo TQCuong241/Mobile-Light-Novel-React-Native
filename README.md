@@ -33,7 +33,7 @@
 
 | Giao diện chính | Chi tiết truyện | Chế độ đọc (Sáng) | Chế độ đọc (Tối) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
-| ![Trang chủ](blob:https://www.facebook.com/be94f312-d746-4b65-8d8c-54053c6f5e34) | ![Chi tiết truyện](https://link-den-anh-chup-man-hinh-chi-tiet.png) | ![Đọc truyện sáng](https://link-den-anh-chup-man-hinh-doc-sang.png) | ![Đọc truyện tối](https://link-den-anh-chup-man-hinh-doc-toi.png) |
+| ![Trang chủ](https://www.facebook.com/be94f312-d746-4b65-8d8c-54053c6f5e34) | ![Chi tiết truyện](https://link-den-anh-chup-man-hinh-chi-tiet.png) | ![Đọc truyện sáng](https://link-den-anh-chup-man-hinh-doc-sang.png) | ![Đọc truyện tối](https://link-den-anh-chup-man-hinh-doc-toi.png) |
 
 ---
 
