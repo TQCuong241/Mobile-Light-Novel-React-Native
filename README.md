@@ -7,9 +7,6 @@
 
 **TruyenBro** là ứng dụng đọc truyện chữ miễn phí, được xây dựng với mục tiêu mang đến trải nghiệm đọc thoải mái và tiện lợi nhất cho các độc giả. Dù bạn đang online hay offline, trên điện thoại hay máy tính, thư viện truyện của bạn sẽ luôn ở bên cạnh.
 
-![TruyenBro Demo GIF](https://link-den-anh-gif-demo-ung-dung-cua-ban.gif)
-*(Mẹo: Hãy quay một video ngắn màn hình ứng dụng và chuyển thành file GIF để đặt vào đây!)*
-
 ---
 
 ## ✨ Tính năng nổi bật
@@ -28,15 +25,6 @@
 -   🚀 **Hiệu năng cao:** Giao diện mượt mà, tốc độ phản hồi nhanh nhờ sử dụng các thư viện tối ưu như Reanimated và Gesture Handler.
 
 ---
-
-## 📸 Ảnh chụp màn hình ứng dụng
-
-| Giao diện chính | Chi tiết truyện | Chế độ đọc (Sáng) | Chế độ đọc (Tối) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
-| ![Trang chủ](https://www.facebook.com/be94f312-d746-4b65-8d8c-54053c6f5e34) | ![Chi tiết truyện](https://link-den-anh-chup-man-hinh-chi-tiet.png) | ![Đọc truyện sáng](https://link-den-anh-chup-man-hinh-doc-sang.png) | ![Đọc truyện tối](https://link-den-anh-chup-man-hinh-doc-toi.png) |
-
----
-
 ## 🛠️ Công nghệ sử dụng
 
 -   **Frontend:** React Native, Expo SDK
