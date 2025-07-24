@@ -11,11 +11,11 @@
 
 ## ✨ Tính năng nổi bật
 
--   📖 **Đọc Online & Offline:** Tìm kiếm và đọc hàng ngàn truyện trực tuyến. Tải về các chương yêu thích để đọc mọi lúc mọi nơi mà không cần kết nối mạng.
+-   📖 **Đọc Online:** Tìm kiếm và đọc hàng ngàn truyện trực tuyến.
 -   🎨 **Tùy biến giao diện đọc:**
     -   **Chế độ Sáng/Tối (Light/Dark Mode):** Tự động chuyển đổi theo hệ thống hoặc tùy chỉnh thủ công để bảo vệ mắt.
     -   **Thay đổi Font chữ & Cỡ chữ:** Chọn lựa font chữ và điều chỉnh kích thước văn bản cho trải nghiệm đọc dễ chịu nhất.
-    -   **Tùy chỉnh màu nền:** Thay đổi màu nền trang đọc (trắng, vàng, đen).
+    -   **Tùy chỉnh màu nền:** Thay đổi màu nền trang đọc (trắng, đen).
 -   🔖 **Quản lý thư viện cá nhân:**
     -   Lưu truyện vào thư viện để tiện theo dõi.
     -   **Đánh dấu trang:** Tự động lưu lại vị trí đang đọc dở.
